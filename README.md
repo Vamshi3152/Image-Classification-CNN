@@ -7,4 +7,4 @@ https://data.mendeley.com/datasets/gk5x6k8xr5/1
 
 Downloading it into your specific desired path.
 
-You can load the data into your any of your cloud path if you are working on cloud to read the data or else you can directly use it our local machine.
+You can load the data into your any of desired paths and can start working on it.
